@@ -1,0 +1,34 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      rouge
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            'Swarit Sharma'
+tagline:          'for(;;)'
+description:      'Blogger | Nadal-ion'
+url:              https://swarits.github.io
+baseurl:          ""
+
+author:
+  name:           'Swarit Sharma'
+  url:            https://twitter.com/swaritsharma_
+  gravatar_md5:   e74264b7a29e3d3a3f0fb9fa68d2a3d1
+  github:         swarits
+  linkedin:       swarit-sharma-135499125
+  # medium:         swarits
+  instagram:      swarit_sharma
+  twitter:        swaritsharma_
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+plugins:
+  - jekyll-gist
+  - jekyll-paginate
+
+theme: jekyll-theme-cayman
